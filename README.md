@@ -1,2 +1,4 @@
-print("hello _welcome")
-print("what is your name ? \n ")
+مرحبا 
+ادخل اسمك 
+ماهو اسمك الدلع 
+ عن ماذا تتحدث قناتك 
